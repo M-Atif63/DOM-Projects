@@ -119,3 +119,9 @@ function toDo () {
 // var nameOfAttribute = insertAttributesName.length;
 // var nodeName = nameOfAttribute.nodeName;
 // console.log(insertAttributesName);
+
+
+var beforeClass = document.getElementById("childColl")
+var afterClass = beforeClass.remove("beforeClass")
+console.log(beforeClass);
+// var afterClass = beforeClass.classList.replace("pooraniClass","NayiClass")
