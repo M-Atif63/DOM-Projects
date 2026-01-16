@@ -85,3 +85,37 @@ function toDo () {
     console.log(inputValue);
 
 }
+
+
+// var childCollection = document.getElementById("childColl").childNodes
+// console.log("childCollection=>",childCollection);
+
+
+// var childCollection = document.getElementById("childColl").firstChild
+// console.log("childCollection=>",childCollection);
+
+
+// var childCollection = document.getElementById("childColl").lastChild
+// console.log("childCollection=>",childCollection);
+
+
+
+// var childCollection = document.getElementById("childColl").attributes[0]
+// console.log("childCollection=>",childCollection);
+
+
+// var childCollection = document.getElementById("childColl").attributes;
+// var lenghtOfAttributes = childCollection.length;
+// console.log("childCollection=>",lenghtOfAttributes);
+
+
+// ===> ShortForm
+// var childCollection = document.getElementById("childColl").attributes.length;
+// console.log("Attributes =>",childCollection);
+
+
+// var insertAttributesName = document.getElementById("childColl").className = "atif";
+// var n = insertAttributesName
+// var nameOfAttribute = insertAttributesName.length;
+// var nodeName = nameOfAttribute.nodeName;
+// console.log(insertAttributesName);
